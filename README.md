@@ -702,7 +702,7 @@ This command installs and properly launches the `DSBulk` tool ([docs](https://do
 
 ``` bash
 astra db load workshops \
-  -url data/movies_by_genre.csv \
+  -url data/movies.csv \
   -k netflix \
   -t movies_by_genre
 ```
